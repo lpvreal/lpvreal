@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @lpvreal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-lpvreal/lpvreal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Instagram: https://www.instagram.com/lpvreal/
+Google Map: https://goo.gl/maps/i6K47Vqhgda2X8ju5
+Linkedln: https://www.linkedin.com/in/lpv-real-947b111bb/
+Soundclound: https://soundcloud.com/lpv-real
+Behance: https://www.behance.net/lpvreal
+Printerest: https://www.pinterest.com/infolpvreal/
+Youtube: https://www.youtube.com/channel/UCdsRact-l0KbaO-_kpiJ6wA
